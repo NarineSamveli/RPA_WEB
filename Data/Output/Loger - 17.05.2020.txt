@@ -1,0 +1,14 @@
+17.05.2020 20:01:31   -----------   Get information from Access - successful.
+17.05.2020 20:01:31   -----------   Initialization successful.
+17.05.2020 20:01:32   -----------   Next tranzaction with url - 500100300, Зорге 9
+17.05.2020 20:01:32   -----------   Processing Transaction Number: 0
+17.05.2020 20:21:20   -----------   Get information from Access - successful.
+17.05.2020 20:21:20   -----------   Initialization successful.
+17.05.2020 20:21:21   -----------   Next tranzaction with url - 500100300, Зорге 9
+17.05.2020 20:21:21   -----------   Processing Transaction Number: 0
+17.05.2020 20:22:54   -----------   Get all DataTable.
+17.05.2020 20:22:58   -----------   Update DataBase was successful.
+17.05.2020 20:22:58   -----------   No data on transaction number -  1
+17.05.2020 20:22:58   -----------   Next tranzaction with url - , Тест
+17.05.2020 20:22:58   -----------   Process finished due to no more transaction data
+17.05.2020 20:22:59   -----------   Killing processes...
